@@ -30,7 +30,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: 'output'
+          source-directory: 'webflow'
           destination-github-username: 'plumhq'
           destination-repository-name: 'public-contents'
           user-email: praveen@plumhq.com
