@@ -33,5 +33,5 @@ jobs:
           source-directory: 'webflow'
           destination-github-username: 'plumhq'
           destination-repository-name: 'public-contents'
-          user-email: praveen@plumhq.com
+          user-email: praveen@p26.in
           target-branch: main
